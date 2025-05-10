@@ -1,5 +1,5 @@
 <!-- README.md -->
-# com.project.crpt.CrptApi Java Client
+# CrptApi Java Client
 
 Клиент для работы с API ГИС МТ (Честный знак) на Java 11.
 
